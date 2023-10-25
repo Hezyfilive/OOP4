@@ -76,7 +76,15 @@ namespace OOP4._6
                     sum += product;
                 }
                 ResultLabel.Content = "Результат: " + sum;
-                ResultLabel.Visibility = Visibility.Visible;
+                if (ShowInDialog.IsChecked == true)
+                {
+                    MessageBox.Show(ResultLabel.Content.ToString(), "Результат");
+                }
+                else
+                {
+                    ResultLabel.Visibility = Visibility.Visible; 
+                }
+                
             }
         }
 
