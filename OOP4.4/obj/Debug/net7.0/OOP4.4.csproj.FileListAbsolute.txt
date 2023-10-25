@@ -1,0 +1,15 @@
+D:\Projects\OOP\OOP4\OOP4.4\bin\Debug\net7.0\OOP4.4.exe
+D:\Projects\OOP\OOP4\OOP4.4\bin\Debug\net7.0\OOP4.4.deps.json
+D:\Projects\OOP\OOP4\OOP4.4\bin\Debug\net7.0\OOP4.4.runtimeconfig.json
+D:\Projects\OOP\OOP4\OOP4.4\bin\Debug\net7.0\OOP4.4.dll
+D:\Projects\OOP\OOP4\OOP4.4\bin\Debug\net7.0\OOP4.4.pdb
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.csproj.AssemblyReference.cache
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.AssemblyInfoInputs.cache
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.AssemblyInfo.cs
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.csproj.CoreCompileInputs.cache
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.dll
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\refint\OOP4.4.dll
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.pdb
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\OOP4.4.genruntimeconfig.cache
+D:\Projects\OOP\OOP4\OOP4.4\obj\Debug\net7.0\ref\OOP4.4.dll

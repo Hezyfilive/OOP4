@@ -1,0 +1,12 @@
+D:\Projects\OOP\OOP4\SportLibrary\bin\Release\net7.0\SportLibrary.deps.json
+D:\Projects\OOP\OOP4\SportLibrary\bin\Release\net7.0\SportLibrary.dll
+D:\Projects\OOP\OOP4\SportLibrary\bin\Release\net7.0\SportLibrary.pdb
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\SportLibrary.csproj.AssemblyReference.cache
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\SportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\SportLibrary.AssemblyInfoInputs.cache
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\SportLibrary.AssemblyInfo.cs
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\SportLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\SportLibrary.dll
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\refint\SportLibrary.dll
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\SportLibrary.pdb
+D:\Projects\OOP\OOP4\SportLibrary\obj\Release\net7.0\ref\SportLibrary.dll

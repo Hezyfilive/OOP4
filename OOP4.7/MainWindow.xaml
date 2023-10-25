@@ -1,0 +1,36 @@
+﻿<Window x:Class="OOP4._7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOP4._7"
+        xmlns:oxy="http://oxyplot.org/wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <RadioButton Name="SineRadioButton" Content="Sine" IsChecked="True"/>
+            <RadioButton Name="CosineRadioButton" Content="Cosine"/>
+            <RadioButton Name="TangentRadioButton" Content="Tangent"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Start X:"/>
+            <TextBox Name="StartXTextBox" Margin="5"/>
+            <TextBlock Text="End X:"/>
+            <TextBox Name="EndXTextBox" Margin="5"/>
+            <Button Content="Plot" Click="PlotButton_Click"/>
+            <Button Content="Close Plot" Click="ClosePlotButton_Click"/>
+        </StackPanel>
+
+        <oxy:PlotView Grid.Row="1" Name="plotView" Margin="10" Visibility="Collapsed" Model="{Binding PlotModel}">
+        </oxy:PlotView>
+        
+
+    </Grid>
+</Window>
