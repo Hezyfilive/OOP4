@@ -34,7 +34,20 @@ namespace OOP4._1
             {
                 int index = _playersGrid.GetCollection().IndexOf(selectedMember);
                 
-                EditMemberWindow editMemberWindow = new EditMemberWindow(selectedMember);
+                var copiedMember = new Person<AdditionalMemberData>
+                {
+                    Name = selectedMember.Name,
+                    Experience = selectedMember.Experience,
+                    AdditionalData = new AdditionalMemberData
+                    {
+                        Number = selectedMember.AdditionalData.Number,
+                        Position = selectedMember.AdditionalData.Position,
+                        Email = selectedMember.AdditionalData.Email,
+                        Phone = selectedMember.AdditionalData.Phone
+                    }
+                };
+                
+                EditMemberWindow editMemberWindow = new EditMemberWindow(copiedMember);
                 if (editMemberWindow.ShowDialog() == true)
                 {
                     var editedMember = editMemberWindow.EditedMember;
